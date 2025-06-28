@@ -1,0 +1,29 @@
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\appsettings.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.staticwebassets.runtime.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.staticwebassets.endpoints.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.exe
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.deps.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.runtimeconfig.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.dll
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\bin\Debug\net8.0\Talha Project.pdb
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.AssemblyInfoInputs.cache
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.AssemblyInfo.cs
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.csproj.CoreCompileInputs.cache
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.RazorAssemblyInfo.cache
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.RazorAssemblyInfo.cs
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\scopedcss\bundle\Talha Project.styles.css
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\scopedcss\projectbundle\Talha Project.bundle.scp.css
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.dll
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\refint\Talha Project.dll
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.pdb
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\Talha Project.genruntimeconfig.cache
+C:\Users\kkt\Desktop\New folder\Talha Project\Talha Project\obj\Debug\net8.0\ref\Talha Project.dll
